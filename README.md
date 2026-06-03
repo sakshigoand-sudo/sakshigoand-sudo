@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sakshigoand@gmail.com**
 
-- 📄 Know about my experiences [C:\Users\saksh\Downloads](C:\Users\saksh\Downloads)
-
 - ⚡ Fun fact **I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshigoand-sudo&show_icons=true&locale=en" alt="sakshigoand-sudo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigoand-sudo&" alt="sakshigoand-sudo" /></p>
-
